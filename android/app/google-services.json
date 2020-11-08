@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775098204812",
+    "firebase_url": "https://help-sender.firebaseio.com",
+    "project_id": "help-sender",
+    "storage_bucket": "help-sender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775098204812:android:bf642881704c6487d8f1a9",
+        "android_client_info": {
+          "package_name": "io.hackathon.help_sender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775098204812-35ev053rj4d1gmtag0cnvv1kfnhvmbib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCHWUsnbKL3Rs5c---a2mZxlIZb84xwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775098204812-35ev053rj4d1gmtag0cnvv1kfnhvmbib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
